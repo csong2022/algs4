@@ -27,10 +27,9 @@
 
 package edu.princeton.cs.algs4.string;
 
-import edu.princeton.cs.algs4.fundamentals.Stack;
+import edu.princeton.cs.algs4.fundamental.Stack;
 import edu.princeton.cs.algs4.stdio.StdIn;
 import edu.princeton.cs.algs4.stdio.StdOut;
-import edu.princeton.cs.algs4.string.AmericanFlag;
 
 /**
  *  The {@code AmericanFlagX} class provides static methods for sorting an

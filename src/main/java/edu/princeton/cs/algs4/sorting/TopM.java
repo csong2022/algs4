@@ -19,8 +19,8 @@
 
 package edu.princeton.cs.algs4.sorting;
 
-import edu.princeton.cs.algs4.fundamentals.Stack;
-import edu.princeton.cs.algs4.fundamentals.Transaction;
+import edu.princeton.cs.algs4.fundamental.Stack;
+import edu.princeton.cs.algs4.fundamental.Transaction;
 import edu.princeton.cs.algs4.stdio.StdIn;
 import edu.princeton.cs.algs4.stdio.StdOut;
 

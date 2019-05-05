@@ -10,8 +10,8 @@
 
 package edu.princeton.cs.algs4.graph;
 
-import edu.princeton.cs.algs4.fundamentals.Queue;
-import edu.princeton.cs.algs4.fundamentals.Stack;
+import edu.princeton.cs.algs4.fundamental.Queue;
+import edu.princeton.cs.algs4.fundamental.Stack;
 import edu.princeton.cs.algs4.stdio.StdOut;
 import edu.princeton.cs.algs4.stdio.StdRandom;
 

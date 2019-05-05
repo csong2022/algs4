@@ -10,7 +10,7 @@
 
 package edu.princeton.cs.algs4.searching;
 
-import edu.princeton.cs.algs4.fundamentals.Queue;
+import edu.princeton.cs.algs4.fundamental.Queue;
 import edu.princeton.cs.algs4.stdio.StdIn;
 import edu.princeton.cs.algs4.stdio.StdOut;
 

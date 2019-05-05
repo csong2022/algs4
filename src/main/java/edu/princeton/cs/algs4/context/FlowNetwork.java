@@ -10,7 +10,7 @@
 package edu.princeton.cs.algs4.context;
 
 
-import edu.princeton.cs.algs4.fundamentals.Bag;
+import edu.princeton.cs.algs4.fundamental.Bag;
 import edu.princeton.cs.algs4.stdio.In;
 import edu.princeton.cs.algs4.stdio.StdOut;
 import edu.princeton.cs.algs4.stdio.StdRandom;

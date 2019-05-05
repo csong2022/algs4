@@ -27,8 +27,8 @@
 
 package edu.princeton.cs.algs4.string;
 
-import edu.princeton.cs.algs4.fundamentals.Bag;
-import edu.princeton.cs.algs4.fundamentals.Stack;
+import edu.princeton.cs.algs4.fundamental.Bag;
+import edu.princeton.cs.algs4.fundamental.Stack;
 import edu.princeton.cs.algs4.graph.Digraph;
 import edu.princeton.cs.algs4.graph.DirectedDFS;
 import edu.princeton.cs.algs4.stdio.StdOut;

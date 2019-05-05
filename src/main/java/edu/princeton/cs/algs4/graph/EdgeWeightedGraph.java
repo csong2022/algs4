@@ -24,8 +24,8 @@
 
 package edu.princeton.cs.algs4.graph;
 
-import edu.princeton.cs.algs4.fundamentals.Bag;
-import edu.princeton.cs.algs4.fundamentals.Stack;
+import edu.princeton.cs.algs4.fundamental.Bag;
+import edu.princeton.cs.algs4.fundamental.Stack;
 import edu.princeton.cs.algs4.stdio.In;
 import edu.princeton.cs.algs4.stdio.StdOut;
 import edu.princeton.cs.algs4.stdio.StdRandom;

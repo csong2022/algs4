@@ -21,7 +21,7 @@
 
 package edu.princeton.cs.algs4.context;
 
-import edu.princeton.cs.algs4.fundamentals.UF;
+import edu.princeton.cs.algs4.fundamental.UF;
 import edu.princeton.cs.algs4.graph.Edge;
 import edu.princeton.cs.algs4.graph.EdgeWeightedGraph;
 import edu.princeton.cs.algs4.sorting.IndexMaxPQ;

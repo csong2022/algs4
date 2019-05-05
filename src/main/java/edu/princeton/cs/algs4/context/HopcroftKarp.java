@@ -11,8 +11,8 @@
 
 package edu.princeton.cs.algs4.context;
 
-import edu.princeton.cs.algs4.fundamentals.Queue;
-import edu.princeton.cs.algs4.fundamentals.Stack;
+import edu.princeton.cs.algs4.fundamental.Queue;
+import edu.princeton.cs.algs4.fundamental.Stack;
 import edu.princeton.cs.algs4.graph.BipartiteX;
 import edu.princeton.cs.algs4.graph.Graph;
 import edu.princeton.cs.algs4.graph.GraphGenerator;

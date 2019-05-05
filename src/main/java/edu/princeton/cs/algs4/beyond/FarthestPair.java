@@ -19,7 +19,7 @@
 
 package edu.princeton.cs.algs4.beyond;
 
-import edu.princeton.cs.algs4.fundamentals.Point2D;
+import edu.princeton.cs.algs4.fundamental.Point2D;
 import edu.princeton.cs.algs4.stdio.StdIn;
 import edu.princeton.cs.algs4.stdio.StdOut;
 
